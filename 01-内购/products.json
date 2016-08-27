@@ -1,0 +1,14 @@
+[
+	{
+		"productId": "com.entstudy.weijiajiao.wz6",
+		"isConsumable": true
+	},
+	{
+		"productId": "com.entstudy.weijiajiao.wz12",
+		"isConsumable": true
+	},
+    {
+        "productId": "com.entstudy.weijiajiao.wz30",
+        "isConsumable": false
+	}
+]
